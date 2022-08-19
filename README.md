@@ -1,4 +1,4 @@
-# Take-coral-colony Mate ROV competition 2020
+# Task-coral-colony Mate ROV competition 2020
 Using image processing to find:
 
 •Areas of growth should be outlined with a green overlay or a marked with a green rectangle/circle around the affected area.    
